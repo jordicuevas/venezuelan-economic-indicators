@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+ 
+#jjva-indicators ul{
+      list-style: none;
+      font-family: 'Roboto', sans-serif;
+}
+#jjva-indicators  ul li img{
+       vertical-align: middle;
+}
+#jjva-last-updated{
+      font-family: 'Roboto', sans-serif;
+      font-size:9px;
+      text-align:center;
+}
