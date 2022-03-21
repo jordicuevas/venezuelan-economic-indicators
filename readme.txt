@@ -1,12 +1,12 @@
 === Venezuelan Economic Indicators Widget ===
 Contributors: jordicuevas
-Tags: Economic, Venezuela, Dollar, content, widget,Colombia
+Tags: venezuela, indicadores economicos, exchange rate, tasa de cambio, tipo de cambio
 Donate link: http://jordicuevas.com.ve/donaciones
-Requires at least: 4.0
-Tested up to: 5.0
+Requires at least: 4.6
+Tested up to: 6.0
 Stable tag: 0.1.1
-License: GPL3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
 
 This plugin provides a widget that will display some of the economic indicators from Venezuela
 
@@ -18,8 +18,7 @@ This plugin provides a widget that will display some of the economic indicators 
 
 Just unzip in your wordpress instalation in wp-conten/plugins directory or use the main feature in your wordpress admin to install plugins from wordpress.org then go to the widgets section and drag it where you want it to appear.
 
- 
-
 == Changelog ==
+
 = 0.1 = 
 * First version
